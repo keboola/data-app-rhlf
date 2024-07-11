@@ -33,6 +33,7 @@ Fuzzy Matching: Utilizes fuzzywuzzy for matching user queries with previously an
 **User Interface**
 
 Home Page
+
 Admin Page
 
 The RLHF Knowledge Base Data App leverages the power of Streamlit and OpenAI to create an intuitive and efficient way to manage and query information extracted from PDF files. 
