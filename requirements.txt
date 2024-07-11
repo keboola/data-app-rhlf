@@ -4,6 +4,6 @@ openai
 pandas
 PyMuPDF
 regex
-git+https://github.com/keboola/sapi-python-client.git
+kbcstorage
 fuzzywuzzy
 python-Levenshtein
