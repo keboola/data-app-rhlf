@@ -7,10 +7,15 @@ The RLHF Knowledge Base Data App is a web application developed using Streamlit,
 **Features**
 
 User Authentication: Basic login functionality to ensure only authorized users can access certain features.
+
 File Upload: Users can upload multiple PDF files which are then processed to extract text.
+
 Text Extraction: Extracted text from PDFs is stored and managed within the app.
+
 Query Processing: Users can query the extracted text using natural language queries.
+
 Feedback Mechanism: Users can provide feedback on the responses to improve future answers.
+
 Admin Interface: Administrators have access to additional functionalities, including file management and viewing statistics.
 
 **Main Components**
