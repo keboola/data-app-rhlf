@@ -21,9 +21,13 @@ Admin Interface: Administrators have access to additional functionalities, inclu
 **Main Components**
 
 Streamlit: Provides the web interface and handles user interactions.
+
 OpenAI API: Used for processing natural language queries.
+
 Keboola Storage API: Manages data storage and retrieval.
+
 PDF Processing: Uses PyMuPDF to extract text from uploaded PDF files.
+
 Fuzzy Matching: Utilizes fuzzywuzzy for matching user queries with previously answered questions.
 
 **User Interface**
@@ -31,4 +35,6 @@ Fuzzy Matching: Utilizes fuzzywuzzy for matching user queries with previously an
 Home Page
 Admin Page
 
-The RLHF Knowledge Base Data App leverages the power of Streamlit and OpenAI to create an intuitive and efficient way to manage and query information extracted from PDF files. The integration with Keboola ensures robust data management, while the feedback mechanism continually improves the accuracy of responses. This app is suitable for environments where managing and querying large volumes of text data from PDFs is crucial.
+The RLHF Knowledge Base Data App leverages the power of Streamlit and OpenAI to create an intuitive and efficient way to manage and query information extracted from PDF files. 
+The integration with Keboola ensures robust data management, while the feedback mechanism continually improves the accuracy of responses. 
+This app is suitable for environments where managing and querying large volumes of text data from PDFs is crucial.
