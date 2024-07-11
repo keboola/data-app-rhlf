@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+openai
+pandas
+PyMuPDF
+regex
+git+https://github.com/keboola/sapi-python-client.git
+fuzzywuzzy
+python-Levenshtein
